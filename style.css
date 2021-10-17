@@ -143,6 +143,7 @@ label:after {
   margin-left: 0.85rem;
   border-radius: 50%;
 }
+
 @media (max-width: 520px) {
   .container {
     height: 70vh;
